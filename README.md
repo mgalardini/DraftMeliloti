@@ -1,4 +1,4 @@
 DraftMeliloti
 =============
 
-Draft contigs of two S. meliloti strains Vs. closed sequencex
+Draft contigs of two S. meliloti strains Vs. closed sequences
